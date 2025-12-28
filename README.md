@@ -1,4 +1,4 @@
-# Genezys Innovations - HR Dashboard
+# Genezys Innovations - HR Dashboard Model
 
 This project is a frontend application for an internal Human Resources (HR) dashboard. It features a complete, production-grade authentication module with a clean, professional user interface.
 
